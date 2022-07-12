@@ -1,16 +1,19 @@
-### Hi there 👋
+<h4 align="left">for contact</h4>
 
-<!--
-**calishin/calishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Discord: [cali#1337](https://discord.com/users/919623283069046845)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qtlifgzk3eeativx5nsoeioxa)
+
+  </td>
+  <td width="50%">
+
+[![Visits](https://komarev.com/ghpvc/?username=selamikarabacak&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/selamikarabacak)
+
+  </p>
+  </td>
+</table>
