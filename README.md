@@ -7,7 +7,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-iota-weld.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/31d7uk6tk3zhmwznuxfmycaezgty)
+&nbsp; <br> [![Spotify](https://novatorem-iota-weld.vercel.app/api/spotify)](https://open.spotify.com/user/31d7uk6tk3zhmwznuxfmycaezgty)
 
   </td>
   <td width="50%">
